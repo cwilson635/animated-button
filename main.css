@@ -1,3 +1,14 @@
+body {
+    background-color: #fcd04b;
+    color: white;
+    font-family: Lato;
+}
+
+h1 {
+    font-weight: 300;
+    text-align: center;
+}
+
 .btn {
     background-color: #fcad26;
     border: none;
